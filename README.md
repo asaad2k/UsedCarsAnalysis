@@ -43,4 +43,12 @@ This project aims to:
 
 5️⃣ **Visualization & Reporting**  
    - Generate **histograms, scatter plots, heatmaps, and box plots**.  
-   - Summarize findings and patterns in used car pricing.  
+   - Summarize findings and patterns in used car pricing.
+
+---
+
+## 📊 Used Cars Market Dashboard
+Below is the interactive **MicroStrategy dashboard** built for used car price analysis:
+
+![Used Cars Dashboard](assets/dashboard.png)
+
