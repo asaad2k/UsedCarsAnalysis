@@ -50,5 +50,5 @@ This project aims to:
 ## 📊 Used Cars Market Dashboard
 Below is the interactive **MicroStrategy dashboard** built for used car price analysis:
 
-![Used Cars Dashboard](assets/dashboard.png)
+![Used Cars Dashboard](https://github.com/asaad2k/UsedCarsAnalysis/blob/main/UsedCarsDashBoard.png?raw=true)
 
